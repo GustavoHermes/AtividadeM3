@@ -3,6 +3,7 @@
 **Disciplina:** Algoritmos e Programação II  
 **Instituição:** Universidade do Vale do Itajaí - UNIVALI  
 **Professor:** Welington Gadelha
+**Alunos:** Lucca Antonio, Gustavo Hermes
 
 ---
 
